@@ -35,13 +35,9 @@ logo_text: ProLabPrints.com
 # Main nav is for screens wider than 600px
 # Home link is hard coded by default
 main_nav:
-  - title: "Elements"
-    url: /elements/
-  - title: "Notes"
-    url: /notes/
-  - title: "View the CSS"
-    url: /view-css/   
-
+  - title: "Support"
+    url: /support/
+ 
 # on screens smaller than 600px, what nav do you want to show?
 # Home is not set by default, the logo works as home link so it could be skipped.
 # mobile nav is shown as buttons, there is room for 3-5 depending on how long they are.
