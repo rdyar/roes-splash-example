@@ -1,12 +1,10 @@
 # name is used for the logo image alt text, and in the footer copyright
-name: "Strapless CSS"
-title: Strapless - a simple CSS starting point.
-description: Strapless is a simple CSS starting point for websites. It does not rely on any framework or JS, just plain old CSS.
+name: ProLabPrints.com
+title: ProLabPrints.com ROES
+description: ProLabPrints.com ROES Ordering System
 # baseurl is used if you are using github pages for a project page - this is the project/repo name, always starts with a /
-baseurl: /strapless 
+baseurl: /plp-splash17 
 
-gems:
-  - octopress-autoprefixer
 
 permalink: pretty
 exclude: ["Gemfile.lock","Gemfile","package.json","rakefile.rb","README.md","s3_website.yml","node_modules","gulpfile.js"]
@@ -32,7 +30,7 @@ logo_url: /assets/images/strapless-logo.png
 
 # if no logo, comment out above and enter the name and it will show instead
 # if the logo_url above is used this will not display
-logo_text: Strapless CSS
+logo_text: ProLabPrints.com
 
 # Main nav is for screens wider than 600px
 # Home link is hard coded by default
@@ -65,11 +63,9 @@ expanded_footer: true
 # the content part is wrapped in a p tag. It is ok to have html in it, just be aware of the already included p tag
 # important! - you cannot use site.base_url or any other site variables in the content! notice I have hard coded my base_url
 ef_about:
-  heading: Strapless CSS
+  heading: ProLabPrints.com ROES
   content: >
-        A simple CSS Starting point</p>
-        <p>No complex framework, no Javascript or Jquery.</p>
-        <p>Uses Flexbox for a <a href="/strapless/sticky-footer/">sticky footer</a> and 2 and 3 column layouts.
+        Cleverly hidden in a tiny strip mall in San Diego, we are a small team of friendly, highly trained professionals doing our best to make your images come to life.
 # Links section - if they are relative then use url, if they are absolute (different domain) use absolute_url
 ef_links:
   heading: Links
@@ -90,10 +86,10 @@ ef_links:
 ef_contact:
   heading: Contact Info
   content: >
-          Strapless CSS<br />
-          123 Main Street <br />
-          Anytown, CA 92115 <br />
-          Hours: Monday - Friday 11am-11:30am<br />
-          Phone: (111) 222-4455<br />
+          ProLabPrints.com / Fromex Photo Lab, Inc.<br />
+          6370 El Cajon Blvd <br />
+          San Diego, CA 92115 <br />
+          Hours: Monday - Friday 9am-6pm<br />
+          Phone: (619) 287-5346<br />
 # shows link to strapless on GH
 show_footer_credit: true
