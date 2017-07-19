@@ -28,8 +28,7 @@ active: yes
    
      <div class="service-flexrow">  
 
-            {% for products in site.data.products %}  
-            {% if products.featured == "core" %}  
+            {% for products in site.data.products %} 
         
               <div class="service-flexitem">
                <a href="{{products.url}}">
@@ -41,7 +40,7 @@ active: yes
                <p>{{products.description}}</p>  
               </div>
               </div>
-          {% endif %}
+      
           {% endfor %}
         </div>
   </div>
