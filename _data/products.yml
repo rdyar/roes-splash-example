@@ -1,0 +1,176 @@
+- title: Digital Prints
+  icon: "digital-prints.jpg" 
+  url: "/services/digital-prints/"
+  featured: core
+  description: "Simple quantity based pricing on Fuji Pro Luster, Glossy and Pearl papers."
+
+- title: Canvas Gallery Wraps
+  icon: canvas-gallery-wraps.jpg
+  url: /services/canvas-gallery-wraps/
+  featured: core
+  description: Your image printed on canvas ready to hang on your wall.
+  
+- title: Press Prints on Cardstock
+  icon: press-prints-card-stock.jpg
+  url: /services/press-printed-products/
+  description: "Flat, folded, trifold... Standard, Pearl, Pearl Linen... single or double sided."
+  featured: core
+
+- title: Prints on Metal
+  icon: metal-prints.jpg
+  url: /services/prints-on-metal/
+  description: "Stunning! Your image infused onto a piece of aluminum."
+  featured: core
+
+- title: Large Prints and Posters
+  icon: poster-prints.jpg
+  url: /services/large-format-and-poster-printing/
+  description: Big prints - 16x20 up to 40x60. Mounted or unmounted.
+  featured: core
+
+- title: Package Printing
+  icon: units-and-package-printing.jpg
+  url: /digital-printing/package-printing/
+  featured: core
+  description: "Printing for sports, schools, proms etc."    
+
+# - title: Double Sided Greeting Cards
+#   icon: double-sided-greeting-cards.jpg
+#   url: /services/double-sided-greeting-cards/
+#   description: "Double sided greeting cards on Card Stock."
+#   featured: normal
+
+# - title: Traditional Photo Greeting Cards
+#   icon: traditional-photo-greeting-cards.jpg
+#   url: /services/traditional-photo-greeting-cards/
+#   description: "Single sided 4x8 and 5x7 photo greeting cards."
+#   featured: normal
+
+- title: Photo Calendars
+  icon: photo-calendars.jpg
+  url: /services/custom-photo-calendars/
+  description: "Photo Calendars make a great gift idea!"
+  featured: normal  
+
+- title: Instagram Prints
+  icon: instagram-printing.jpg
+  url: /digital-printing/instagram-prints/
+  featured: normal
+  description: It's hip to be Square! Special prints for a special format.
+
+- title: Prints with Borders
+  icon: photo-borders-prints.jpg
+  url: /digital-printing/prints-with-borders/
+  featured: normal
+  description: "Want borders on your prints? We've got you covered."
+
+- title: Scrapbook Printing
+  icon: scrapbook-prints.jpg
+  url: /digital-printing/scrapbook-printing/
+  featured: normal
+  description: "3x4 up to 12x12 prints and templates for scrapbookers"
+
+- title: Die Cut Wallets
+  icon: die-cut-wallets.jpg
+  url: /services/die-cut-wallets/
+  featured: normal
+  description: Die Cut Wallets with rounded corners.  
+
+- title: Gator Board Prints
+  icon: gator-board-prints.jpg
+  url: /services/gator-board-prints/
+  description: "Prints mounted on Gator Board with a hanging cleat on the back."
+  featured: normal
+
+- title: Wall Art
+  icon: wall-art.jpg
+  url: /services/wall-art/
+  description: "Cover your walls with Canvas, Metal and Mounted Prints."
+  featured:
+
+- title: Locket Prints
+  icon: locket-prints.jpg
+  url: /services/locket-photo-prints/
+  description: Our take on solving the locket print problem - 25 different sizes on a 5x7.
+  featured: normal
+
+- title: Mounting
+  icon: mounting-gator-board.jpg
+  url: /services/mounting-services/
+  description: "2mm Styrenne, 3/16 Foam Core & 1/2 or 3/16 Gator Board."
+  featured: normal
+
+- title: Prints on Tile
+  icon: prints-on-tile.jpg
+  url: /services/prints-on-tile/
+  description: "Your photo on a ceramic tile. 4x4, 6x6 or 8x8 sizes available."
+  featured: normal
+
+- title: Quantity 8x10 Prints
+  icon: quantity-8x10-prints.jpg
+  url: /services/quantity-8x10-prints/
+  description: Need a large number of 8x10s for autographs?
+  featured: normal
+
+- title: Film Developing
+  icon: film-developing.jpg
+  url: /services/film-processing/
+  description: You shoot film; We process film. Lets get together.
+  featured: instore
+
+- title: Film and Slide Scanning
+  icon: slide-scans.jpg
+  url: /services/film-and-slide-scanning/
+  description: Simple quantity based pricing for scans from slides and film.
+  featured: instore
+
+- title: "Scanning & Restoration" 
+  icon: print-scans.jpg
+  url: /services/print-scanning/
+  description: We can copy your old prints and make new prints.
+  featured: instore
+
+- title: Bulk Scanning
+  icon: bulk-scans.jpg
+  url: /services/bulk-print-scans/
+  description: Want to digitize your boxes of prints? we have a special rate for large quantities of scans from prints.
+  featured: instore
+
+- title: Passport Photos
+  icon: passport-photos.jpg
+  url:  /services/passport-photos/
+  description: "We shoot all kinds of passport and ID photos including Canadian and European."
+  featured: instore
+
+- title: Panoramic Prints
+  icon: panoramic-prints.jpg
+  url:  /services/panoramic-prints/
+  description: "Long skinny prints, perfect for panos"
+  featured: normal
+
+- title: 8x10 Headshots
+  icon: 8x10-headshots.jpg
+  url:  /services/8x10-headshots/
+  description: "8x10 prints with your name, some with name and contact info."
+  featured: normal
+
+
+# - title: For Locals Only
+#   icon: san-diego-map.jpg
+#   url: /local-services/
+#   description: "Film developing, scanning, restoration, bulk print scanning, passport photos..."
+#   featured: 
+
+# - title: "TAP Albums & Boxes"
+#   icon: tap-albums-icon.jpg
+#   url: /services/TAP-albums-and-boxes/  
+#   description: We carry TAP Superior Albums and Earthenware Boxes and Folders.
+
+
+
+
+
+# - title: RAW Processing
+#   icon: raw-icon.jpg
+#   url: /services/raw-processing/  
+#   description: Shooting RAW? We can color correct and convert your RAW files.  
