@@ -273,16 +273,16 @@ legend {
   display: none !important; }
 h1, h2, h3, h4, h5, h6,{
   font-family: $heading-font-family;
-  margin-bottom: 0.5rem;
+  margin-bottom: 8px;
   font-weight: normal;
   line-height: 1.1;
   color: $heading-default-color; }
 h1 {
-  font-size: 1.6rem; 
+  font-size: 20px; 
   color: $heading-h1-color;
 }
 h2 {
-  font-size: 1.4rem;
+  font-size: 20px;
   color: $heading-h2-color;;
 }
 h3 {
