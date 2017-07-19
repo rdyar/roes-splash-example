@@ -8,7 +8,7 @@
   icon: "full-service-icon.jpg" 
   url: "/services/digital-prints/"
   featured: core
-  description: "Images will be color corrected before printing."
+  description: "Images color corrected before printing."
   
 - title: Fuji Pearl Prints
   icon: "pearl-prints-icon.jpg" 
@@ -19,7 +19,7 @@
 - title: Large Prints and Posters
   icon: poster-prints.jpg
   url: /services/large-format-and-poster-printing/
-  description: Big prints - 16x20 up to 40x60. Mounted or unmounted.
+  description: Big prints - 16x20 up to 40x60.
   featured: core
   
 - title: Canvas Gallery Wraps
