@@ -15,8 +15,9 @@
 .service-flexitem{
   width: 500px;
   background-color: #fafafa;
-  border: 1px solid #f3f3f3;
+  border: 1px solid #e2e2e2;
   border-radius:2px;
+  margin: 4px 8px 14px 8px;
   box-shadow: 0 0 4px rgba(232, 232, 232, 0.74);
 }    
 .sf-white-bg{
@@ -57,8 +58,7 @@
   border-top: 1px solid #efefef;
 }  
 .serviceh2{
-    margin-bottom: 0.2rem;
-    margin-top: .5rem;
+    color: #3184c1;
 }
  .service-flexitem .img-responsive{
   padding-bottom: 0;
