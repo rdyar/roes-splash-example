@@ -1,15 +1,3 @@
-- title: Pro Pricing Luster Prints
-  icon: "digital-prints.jpg" 
-  url: "/services/digital-prints/"
-  featured: core
-  description: "Printed as is, no corrections, best price."
-
-- title: Full Service Luster Prints
-  icon: "full-service-icon.jpg" 
-  url: "/services/digital-prints/"
-  featured: core
-  description: "Images color corrected before printing."
-  
 - title: Fuji Pearl Prints
   icon: "pearl-prints-icon.jpg" 
   url: "/services/digital-prints/"
