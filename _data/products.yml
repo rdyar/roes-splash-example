@@ -40,12 +40,6 @@
   description: "Stunning! Your image infused onto a piece of aluminum."
   featured: core
 
-- title: Large Prints and Posters
-  icon: poster-prints.jpg
-  url: /services/large-format-and-poster-printing/
-  description: Big prints - 16x20 up to 40x60. Mounted or unmounted.
-  featured: core
-
 - title: Package Printing
   icon: units-and-package-printing.jpg
   url: /digital-printing/package-printing/
