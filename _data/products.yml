@@ -1,9 +1,21 @@
+- title: Pro Pricing Luster Prints
+  icon: "digital-prints.jpg" 
+  url: "/services/digital-prints/"
+  featured: core
+  description: "Printed as is, no corrections, best price."
+
+- title: Full Service Luster Prints
+  icon: "digital-prints.jpg" 
+  url: "/services/digital-prints/"
+  featured: core
+  description: "Images will be checked and color corrected before printing."
+  
 - title: Digital Prints
   icon: "digital-prints.jpg" 
   url: "/services/digital-prints/"
   featured: core
   description: "Simple quantity based pricing on Fuji Pro Luster, Glossy and Pearl papers."
-
+  
 - title: Canvas Gallery Wraps
   icon: canvas-gallery-wraps.jpg
   url: /services/canvas-gallery-wraps/
