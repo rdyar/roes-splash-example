@@ -11,7 +11,7 @@
   description: "Images will be color corrected before printing."
   
 - title: Fuji Pearl Prints
-  icon: "digital-prints.jpg" 
+  icon: "pearl-prints-icon.jpg" 
   url: "/services/digital-prints/"
   featured: core
   description: "High gloss metalic photo paper."
