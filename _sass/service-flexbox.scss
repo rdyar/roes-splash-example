@@ -43,6 +43,11 @@
       width: 370px;
   }
 }
+@media (min-width: 1300px) {
+ .service-flexitem {
+      width: 310px;
+  }
+}
 .servicea:hover {
     text-decoration: none;
 }
