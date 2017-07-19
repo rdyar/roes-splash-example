@@ -15,6 +15,12 @@
   url: "/services/digital-prints/"
   featured: core
   description: "High gloss metalic photo paper."
+
+- title: Large Prints and Posters
+  icon: poster-prints.jpg
+  url: /services/large-format-and-poster-printing/
+  description: Big prints - 16x20 up to 40x60. Mounted or unmounted.
+  featured: core
   
 - title: Canvas Gallery Wraps
   icon: canvas-gallery-wraps.jpg
