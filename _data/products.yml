@@ -9,18 +9,6 @@
   url: /services/press-printed-products/
   description: "Flat, folded, trifold... Standard, Pearl, Pearl Linen... single or double sided."
   featured: core
-  
-- title: Fuji Pearl Prints
-  icon: "pearl-prints-icon.jpg" 
-  url: "/services/digital-prints/"
-  featured: core
-  description: "High gloss metalic photo paper."
-
-#- title: Large Prints and Posters
-#  icon: poster-prints.jpg
-#  url: /services/large-format-and-poster-printing/
-#  description: Big prints - 16x20 up to 40x60.
-#  featured: core 
 
 - title: Prints on Metal
   icon: metal-prints.jpg
@@ -34,11 +22,30 @@
   featured: normal
   description: "3x4 up to 12x12 prints and templates for scrapbookers"
 
+- title: Fuji Pearl Prints
+  icon: "pearl-prints-icon.jpg" 
+  url: "/services/digital-prints/"
+  featured: core
+  description: "High gloss metalic photo paper."
+
+#- title: Large Prints and Posters
+#  icon: poster-prints.jpg
+#  url: /services/large-format-and-poster-printing/
+#  description: Big prints - 16x20 up to 40x60.
+#  featured: core 
+
 - title: Package Printing
   icon: units-and-package-printing.jpg
   url: /digital-printing/package-printing/
   featured: core
   description: "Printing for sports, schools, proms etc."    
+
+- title: Die Cut Wallets
+  icon: die-cut-wallets.jpg
+  url: /services/die-cut-wallets/
+  featured: normal
+  description: Die Cut Wallets with rounded corners.  
+
 
 # - title: Double Sided Greeting Cards
 #   icon: double-sided-greeting-cards.jpg
@@ -71,11 +78,6 @@
   description: "Want borders on your prints? We've got you covered."
 
 
-- title: Die Cut Wallets
-  icon: die-cut-wallets.jpg
-  url: /services/die-cut-wallets/
-  featured: normal
-  description: Die Cut Wallets with rounded corners.  
 
 - title: Gator Board Prints
   icon: gator-board-prints.jpg
@@ -83,22 +85,10 @@
   description: "Prints mounted on Gator Board with a hanging cleat on the back."
   featured: normal
 
-- title: Wall Art
-  icon: wall-art.jpg
-  url: /services/wall-art/
-  description: "Cover your walls with Canvas, Metal and Mounted Prints."
-  featured:
-
 - title: Locket Prints
   icon: locket-prints.jpg
   url: /services/locket-photo-prints/
   description: Our take on solving the locket print problem - 25 different sizes on a 5x7.
-  featured: normal
-
-- title: Mounting
-  icon: mounting-gator-board.jpg
-  url: /services/mounting-services/
-  description: "2mm Styrenne, 3/16 Foam Core & 1/2 or 3/16 Gator Board."
   featured: normal
 
 - title: Prints on Tile
@@ -112,30 +102,6 @@
   url: /services/quantity-8x10-prints/
   description: Need a large number of 8x10s for autographs?
   featured: normal
-
-- title: Film Developing
-  icon: film-developing.jpg
-  url: /services/film-processing/
-  description: You shoot film; We process film. Lets get together.
-  featured: instore
-
-- title: Film and Slide Scanning
-  icon: slide-scans.jpg
-  url: /services/film-and-slide-scanning/
-  description: Simple quantity based pricing for scans from slides and film.
-  featured: instore
-
-- title: "Scanning & Restoration" 
-  icon: print-scans.jpg
-  url: /services/print-scanning/
-  description: We can copy your old prints and make new prints.
-  featured: instore
-
-- title: Bulk Scanning
-  icon: bulk-scans.jpg
-  url: /services/bulk-print-scans/
-  description: Want to digitize your boxes of prints? we have a special rate for large quantities of scans from prints.
-  featured: instore
 
 - title: Passport Photos
   icon: passport-photos.jpg
@@ -154,24 +120,3 @@
   url:  /services/8x10-headshots/
   description: "8x10 prints with your name, some with name and contact info."
   featured: normal
-
-
-# - title: For Locals Only
-#   icon: san-diego-map.jpg
-#   url: /local-services/
-#   description: "Film developing, scanning, restoration, bulk print scanning, passport photos..."
-#   featured: 
-
-# - title: "TAP Albums & Boxes"
-#   icon: tap-albums-icon.jpg
-#   url: /services/TAP-albums-and-boxes/  
-#   description: We carry TAP Superior Albums and Earthenware Boxes and Folders.
-
-
-
-
-
-# - title: RAW Processing
-#   icon: raw-icon.jpg
-#   url: /services/raw-processing/  
-#   description: Shooting RAW? We can color correct and convert your RAW files.  
