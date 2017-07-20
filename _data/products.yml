@@ -1,32 +1,38 @@
+- title: Canvas Gallery Wraps
+  icon: canvas-gallery-wraps.jpg
+  url: /services/canvas-gallery-wraps/
+  featured: core
+  description: Your image printed on canvas ready to hang on your wall.
+
+- title: Press Prints on Cardstock
+  icon: press-prints-card-stock.jpg
+  url: /services/press-printed-products/
+  description: "Flat, folded, trifold... Standard, Pearl, Pearl Linen... single or double sided."
+  featured: core
+  
 - title: Fuji Pearl Prints
   icon: "pearl-prints-icon.jpg" 
   url: "/services/digital-prints/"
   featured: core
   description: "High gloss metalic photo paper."
 
-- title: Large Prints and Posters
-  icon: poster-prints.jpg
-  url: /services/large-format-and-poster-printing/
-  description: Big prints - 16x20 up to 40x60.
-  featured: core
-  
-- title: Canvas Gallery Wraps
-  icon: canvas-gallery-wraps.jpg
-  url: /services/canvas-gallery-wraps/
-  featured: core
-  description: Your image printed on canvas ready to hang on your wall.
-  
-- title: Press Prints on Cardstock
-  icon: press-prints-card-stock.jpg
-  url: /services/press-printed-products/
-  description: "Flat, folded, trifold... Standard, Pearl, Pearl Linen... single or double sided."
-  featured: core
+#- title: Large Prints and Posters
+#  icon: poster-prints.jpg
+#  url: /services/large-format-and-poster-printing/
+#  description: Big prints - 16x20 up to 40x60.
+#  featured: core 
 
 - title: Prints on Metal
   icon: metal-prints.jpg
   url: /services/prints-on-metal/
   description: "Stunning! Your image infused onto a piece of aluminum."
   featured: core
+
+- title: Scrapbook Printing
+  icon: scrapbook-prints.jpg
+  url: /digital-printing/scrapbook-printing/
+  featured: normal
+  description: "3x4 up to 12x12 prints and templates for scrapbookers"
 
 - title: Package Printing
   icon: units-and-package-printing.jpg
@@ -46,11 +52,11 @@
 #   description: "Single sided 4x8 and 5x7 photo greeting cards."
 #   featured: normal
 
-- title: Photo Calendars
-  icon: photo-calendars.jpg
-  url: /services/custom-photo-calendars/
-  description: "Photo Calendars make a great gift idea!"
-  featured: normal  
+#- title: Photo Calendars
+# icon: photo-calendars.jpg
+# url: /services/custom-photo-calendars/
+# description: "Photo Calendars make a great gift idea!"
+# featured: normal  
 
 - title: Instagram Prints
   icon: instagram-printing.jpg
@@ -64,11 +70,6 @@
   featured: normal
   description: "Want borders on your prints? We've got you covered."
 
-- title: Scrapbook Printing
-  icon: scrapbook-prints.jpg
-  url: /digital-printing/scrapbook-printing/
-  featured: normal
-  description: "3x4 up to 12x12 prints and templates for scrapbookers"
 
 - title: Die Cut Wallets
   icon: die-cut-wallets.jpg
