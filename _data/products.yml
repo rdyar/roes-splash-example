@@ -28,12 +28,6 @@
   featured: core
   description: "High gloss metalic photo paper."
 
-#- title: Large Prints and Posters
-#  icon: poster-prints.jpg
-#  url: /services/large-format-and-poster-printing/
-#  description: Big prints - 16x20 up to 40x60.
-#  featured: core 
-
 - title: Package Printing
   icon: units-and-package-printing.jpg
   url: /digital-printing/package-printing/
@@ -65,26 +59,6 @@
 # description: "Photo Calendars make a great gift idea!"
 # featured: normal  
 
-- title: Instagram Prints
-  icon: instagram-printing.jpg
-  url: /digital-printing/instagram-prints/
-  featured: normal
-  description: It's hip to be Square! Special prints for a special format.
-
-- title: Prints with Borders
-  icon: photo-borders-prints.jpg
-  url: /digital-printing/prints-with-borders/
-  featured: normal
-  description: "Want borders on your prints? We've got you covered."
-
-
-
-- title: Gator Board Prints
-  icon: gator-board-prints.jpg
-  url: /services/gator-board-prints/
-  description: "Prints mounted on Gator Board with a hanging cleat on the back."
-  featured: normal
-
 - title: Locket Prints
   icon: locket-prints.jpg
   url: /services/locket-photo-prints/
@@ -108,12 +82,6 @@
   url:  /services/passport-photos/
   description: "We shoot all kinds of passport and ID photos including Canadian and European."
   featured: instore
-
-- title: Panoramic Prints
-  icon: panoramic-prints.jpg
-  url:  /services/panoramic-prints/
-  description: "Long skinny prints, perfect for panos"
-  featured: normal
 
 - title: 8x10 Headshots
   icon: 8x10-headshots.jpg
