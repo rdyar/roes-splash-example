@@ -2,18 +2,18 @@
   icon: canvas-gallery-wraps.jpg
   url: /services/canvas-gallery-wraps/
   featured: core
-  description: Your image printed on canvas ready to hang on your wall.
+  description: Your image printed on canvas ready to hang on your wall
 
 - title: Press Prints on Cardstock
   icon: press-prints-card-stock.jpg
   url: /services/press-printed-products/
-  description: "Flat, folded, trifold... Standard, Pearl, Pearl Linen... single or double sided."
+  description: "Flat, folded, trifold..."
   featured: core
 
 - title: Prints on Metal
   icon: metal-prints.jpg
   url: /services/prints-on-metal/
-  description: "Stunning! Your image infused onto a piece of aluminum."
+  description: "Stunning! Your image infused into aluminum"
   featured: core
 
 - title: Scrapbook Printing
@@ -26,19 +26,19 @@
   icon: "pearl-prints-icon.jpg" 
   url: "/services/digital-prints/"
   featured: core
-  description: "High gloss metalic photo paper."
+  description: "High gloss metalic photo paper"
 
 - title: Package Printing
   icon: units-and-package-printing.jpg
   url: /digital-printing/package-printing/
   featured: core
-  description: "Printing for sports, schools, proms etc."    
+  description: "Printing for sports, schools, proms etc"    
 
 - title: Die Cut Wallets
   icon: die-cut-wallets.jpg
   url: /services/die-cut-wallets/
   featured: normal
-  description: Die Cut Wallets with rounded corners.  
+  description: Die Cut Wallets with rounded corners
 
 
 # - title: Double Sided Greeting Cards
@@ -62,20 +62,20 @@
 - title: 8x10 Headshots
   icon: 8x10-headshots.jpg
   url:  /services/8x10-headshots/
-  description: "8x10 prints with your name, some with name and contact info."
+  description: "8x10 templates with your name"
   featured: normal
 
 
 - title: Locket Prints
   icon: locket-prints.jpg
   url: /services/locket-photo-prints/
-  description: Our take on solving the locket print problem - 25 different sizes on a 5x7.
+  description: Our take on solving the locket print problem - 25 different sizes on a 5x7
   featured: normal
 
 - title: Prints on Tile
   icon: prints-on-tile.jpg
   url: /services/prints-on-tile/
-  description: "Your photo on a ceramic tile. 4x4, 6x6 or 8x8 sizes available."
+  description: "Your photo on a ceramic tile. 4x4, 6x6 and 8x8 sizes available"
   featured: normal
 
 - title: Quantity 8x10 Prints
@@ -87,5 +87,5 @@
 - title: Passport Photos
   icon: passport-photos.jpg
   url:  /services/passport-photos/
-  description: "We shoot all kinds of passport and ID photos including Canadian and European."
+  description: "DIY passport photo"
   featured: instore
