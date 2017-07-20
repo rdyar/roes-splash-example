@@ -59,6 +59,13 @@
 # description: "Photo Calendars make a great gift idea!"
 # featured: normal  
 
+- title: 8x10 Headshots
+  icon: 8x10-headshots.jpg
+  url:  /services/8x10-headshots/
+  description: "8x10 prints with your name, some with name and contact info."
+  featured: normal
+
+
 - title: Locket Prints
   icon: locket-prints.jpg
   url: /services/locket-photo-prints/
@@ -82,9 +89,3 @@
   url:  /services/passport-photos/
   description: "We shoot all kinds of passport and ID photos including Canadian and European."
   featured: instore
-
-- title: 8x10 Headshots
-  icon: 8x10-headshots.jpg
-  url:  /services/8x10-headshots/
-  description: "8x10 prints with your name, some with name and contact info."
-  featured: normal
