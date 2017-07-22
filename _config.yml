@@ -72,5 +72,6 @@ ef_contact:
           San Diego, CA 92115 <br />
           Hours: Monday - Friday 9am-6pm<br />
           Phone: (619) 287-5346<br />
+          <a href="https://prolabprints.com/" target ="_blank">https://prolabprints.com/</a>
 # shows link to strapless on GH
 show_footer_credit: true
