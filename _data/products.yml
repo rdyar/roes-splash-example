@@ -3,17 +3,23 @@
   url: /services/canvas-gallery-wraps/
   featured: core
   description: Ready to hang wall art
-
-- title: Press Prints on Cardstock
-  icon: press-prints-card-stock.jpg
-  url: /services/press-printed-products/
-  description: "Flat, folded, trifold..."
-  featured: core
+  
+- title: Large Prints and Posters
+  icon: poster-prints.jpg
+  url: /services/large-format-and-poster-printing/
+  description: Big prints, 16x20 to 40x60
+  featured: core  
 
 - title: Prints on Metal
   icon: metal-prints.jpg
   url: /services/prints-on-metal/
   description: "Stunning! Your image on aluminum"
+  featured: core
+
+- title: Press Prints on Cardstock
+  icon: press-prints-card-stock.jpg
+  url: /services/press-printed-products/
+  description: "Flat, folded, trifold..."
   featured: core
 
 - title: Scrapbook Printing
