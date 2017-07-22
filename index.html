@@ -61,14 +61,14 @@ active: yes
           {% endfor %}
        
          {% for products2 in site.data.products %} 
-          {% if products.icon == "" %}
+          {% unless products2.icon %}
               <div class="service-flexitem">
                <div class="service-text">
                <a class="servicea" href="{{products2.url}}"><h3 class="serviceh2">{{products2.title}}</h3></a>
                <p>{{products2.description}}</p>  
               </div>
               </div>
-          {% endif %}
+          {% endunless %}
           {% endfor %}
         </div>
   </div>
