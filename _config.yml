@@ -44,12 +44,7 @@ main_nav:
 mobile_nav:
   - title: Home
     url: /
-  - title: "Elements"
-    url: /elements/
-  - title: "Notes"
-    url: /notes/
-
-
+  
 # Expander footer - this has 3 sections, about, links and contact info.
 # if you don't need the expanded footer info change this to false.
 expanded_footer: true
@@ -66,18 +61,8 @@ ef_about:
 ef_links:
   heading: Links
   links:
-  - title: "Elements"
-    url: /elements/
-  - title: "Notes"
-    url: /notes/
-  - title: "View the CSS"
-    url: /view-css/
-  - title: XML Site Map
-    url: /sitemap.xml
-  - title: MIT License
-    url: /license/
-  - title: View on GitHub
-    external_url: https://github.com/rdyar/strapless/tree/gh-pages
+   - title: Go To Main Website
+     external_url: https://prolabprints.com/
 
 ef_contact:
   heading: Contact Info
