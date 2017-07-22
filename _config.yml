@@ -59,7 +59,7 @@ ef_about:
         Cleverly hidden in a tiny strip mall in San Diego, we are a small team of friendly, highly trained professionals doing our best to make your images come to life.
 # Links section - if they are relative then use url, if they are absolute (different domain) use absolute_url
 ef_links:
- # heading: Links
+  heading: Links
   links:
    #- title: Go To ProLabPrints.com Website
    #  external_url: https://prolabprints.com/
