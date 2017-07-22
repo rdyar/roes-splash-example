@@ -21,7 +21,7 @@
   box-shadow: 0 0 4px rgba(232, 232, 232, 0.74);
 }    
 .service-flexitem-wide{
-  width: 596px;
+  width: 556px;
   background-color: #fafafa;
   border: 1px solid #e2e2e2;
   border-radius:2px;
@@ -43,23 +43,23 @@
 }
 @media (min-width: 992px) {
  .service-flexitem {
-    width: 290px;
+    width: 270px;
      }
   .service-flexitem-wide {
-      width:443px;
+      width:403px;
   }
 }
 @media (min-width: 1200px) {
  .service-flexitem {
-      width: 290px;
+      width: 270px;
   }
     .service-flexitem-wide {
-      width: 443px;
+      width: 403px;
   }
 }
 @media (min-width: 1300px) {
  .service-flexitem {
-      width: 290px;
+      width: 270px;
   }
  .service-flexitem-wide {
       width: 596px;
