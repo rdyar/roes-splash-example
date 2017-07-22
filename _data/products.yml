@@ -2,7 +2,7 @@
   icon: canvas-gallery-wraps.jpg
   url: /services/canvas-gallery-wraps/
   featured: core
-  description: Your image printed on canvas ready to hang on your wall
+  description: Ready to hang wall art
 
 - title: Press Prints on Cardstock
   icon: press-prints-card-stock.jpg
@@ -13,14 +13,14 @@
 - title: Prints on Metal
   icon: metal-prints.jpg
   url: /services/prints-on-metal/
-  description: "Stunning! Your image infused into aluminum"
+  description: "Stunning! Your image on aluminum"
   featured: core
 
 - title: Scrapbook Printing
   icon: scrapbook-prints.jpg
   url: /digital-printing/scrapbook-printing/
   featured: normal
-  description: "3x4 up to 12x12 prints and templates for scrapbookers"
+  description: "3x4 up to 12x12 prints and templates"
 
 - title: Fuji Pearl Prints
   icon: "pearl-prints-icon.jpg" 
