@@ -46,7 +46,7 @@ active: yes
         
 
             {% for products in site.data.products %} 
-        
+          {% if products.icon %}
               <div class="service-flexitem">
                <a href="{{products.url}}">
                <img alt="{{products.title}}" src="{{site.baseurl}}/assets/images/{{products.icon}}" class="img-responsive-hm">
@@ -57,7 +57,7 @@ active: yes
                <p>{{products.description}}</p>  
               </div>
               </div>
-      
+          {% endif %}
           {% endfor %}
         </div>
   </div>
