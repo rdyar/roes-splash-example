@@ -91,28 +91,7 @@
   featured: normal
 
 - title: Passport Photos
- # icon: passport-photos.jpg
+  icon: passport-photos.jpg
   url:  /services/passport-photos/
   description: "DIY passport photo"
-  
-- title: Passport Photos
-  url:  /services/passport-photos/
-  description: "DIY passport photo"
- 
-  
-- title: Passport Photos
-  url:  /services/passport-photos/
-  description: "DIY passport photo"
-
-  
-- title: Passport Photos
-  url:  /services/passport-photos/
-  description: "DIY passport photo"
-
-  
-- title: Passport Photos
-  url:  /services/passport-photos/
-  description: "DIY passport photo"  
- 
- 
  
