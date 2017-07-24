@@ -6,43 +6,43 @@
   
 - title: Large Prints and Posters
   icon: poster-prints.jpg
-  url: /services/large-format-and-poster-printing/
+  url: roes://pro-luster-pro-pricing/posters-cat/posters-cat-info
   description: Big prints, 16x20 to 40x60
   featured: core  
 
 - title: Prints on Metal
   icon: metal-prints.jpg
-  url: /services/prints-on-metal/
+  url: roes://metal-cat/metal-prints/metal-info
   description: "Stunning! Your image on aluminum"
   featured: core
 
 - title: Press Prints on Cardstock
   icon: press-prints-card-stock.jpg
-  url: /services/press-printed-products/
+  url: roes://press-cat/presscards/press-info
   description: "Flat, folded, trifold..."
   featured: core
 
 - title: Scrapbook Printing
   icon: scrapbook-prints.jpg
-  url: /digital-printing/scrapbook-printing/
+  url: roes://scrap-cat/standard-subcat/scrap-info
   featured: normal
   description: "3x4 up to 12x12 prints and templates"
 
 - title: Fuji Pearl Prints
   icon: "pearl-prints-icon.jpg" 
-  url: "/services/digital-prints/"
+  url: roes://pearl-cat/pearl-subcat/pearl-info
   featured: core
   description: "High gloss metalic photo paper"
 
 - title: Package Printing
   icon: units-and-package-printing.jpg
-  url: /digital-printing/package-printing/
+  url: roes://units-cat/units-subcat/units-info
   featured: core
   description: "Printing for sports, schools, proms etc"    
 
 - title: Die Cut Wallets
   icon: die-cut-wallets.jpg
-  url: /services/die-cut-wallets/
+  url: roes://pro-luster-full-service/pro-luster-fs/dcwfs
   featured: normal
   description: Die Cut Wallets with rounded corners
 
@@ -67,31 +67,31 @@
 
 - title: 8x10 Headshots
   icon: 8x10-headshots.jpg
-  url:  /services/8x10-headshots/
+  url:  roes://pro-luster-pro-pricing/proluster-prints-text/prints-text-info
   description: "8x10 templates with your name"
   featured: normal
 
 
 - title: Locket Prints
   icon: locket-prints.jpg
-  url: /services/locket-photo-prints/
+  url: roes://pro-luster-full-service/misc/locket
   description: Our take on solving the locket print problem - 25 different sizes on a 5x7
   featured: normal
 
 - title: Prints on Tile
   icon: prints-on-tile.jpg
-  url: /services/prints-on-tile/
+  url: roes://metal-cat/tile-cat/tile-cat-info
   description: "Your photo on a ceramic tile. 4x4, 6x6 and 8x8 sizes available"
   featured: normal
 
 - title: Quantity 8x10 Prints
   icon: quantity-8x10-prints.jpg
-  url: /services/quantity-8x10-prints/
+  url: roes://quantity-8x10/quantity-8x10-info
   description: Need a large number of 8x10s for autographs?
   featured: normal
 
 - title: Passport Photos
   icon: passport-photos.jpg
-  url:  /services/passport-photos/
+  url:  roes://pro-luster-full-service/misc/ppt
   description: "DIY passport photo"
  
