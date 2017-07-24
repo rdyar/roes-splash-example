@@ -61,8 +61,12 @@ ef_about:
 ef_links:
   heading: Links
   links:
-   #- title: Go To ProLabPrints.com Website
-   #  external_url: https://prolabprints.com/
+   - title: ROES Intro Video
+     external_url: https://prolabprints.com/videos/roes-intro-video/
+   - title: ROES Drag and Drop
+     external_url: https://prolabprints.com/videos/ROES-drag-and-drop/
+   - title: California Resale Certificate
+     external_url: http://media.ephotopros.com/site/resale-certificate-fromex.pdf
 
 ef_contact:
   heading: Contact Info
