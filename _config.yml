@@ -13,10 +13,10 @@ kramdown:
   syntax_highlighter: rouge
 
 ####show message in an alert on home page. Comment it out to hide it.
-message:
-  title: Closed On the 4th of July, Half day on Monday the 3rd
-  content: We will be closing earlier on Monday July 3rd, at 1pm. We will be closed all day on Tuesday July 4th.<br>Back to normal on Wednesday July 5th.
-           <br>Happy 4th of July!
+#message:
+#  title: Closed On the 4th of July, Half day on Monday the 3rd
+#  content: We will be closing earlier on Monday July 3rd, at 1pm. We will be closed all day on Tuesday July 4th.<br>Back to normal on Wednesday July 5th.
+#           <br>Happy 4th of July!
 
 # Google analytics ID - uncomment and add your GA ID
 # ga: UA-xxxx-yy
