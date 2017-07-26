@@ -55,6 +55,18 @@
   description: "8x10 templates with your name"
 
 - title: Prints on Tile
-  icon: https://source.unsplash.com/random/500x278?sig=12
   url: roes://metal-cat/tile-cat/tile-cat-info
   description: "Your photo on a ceramic tile. 4x4, 6x6 and 8x8 sizes available"
+  
+- title: Engineer Prints
+  url: roes://wherever
+  description: Big and cheap
+  
+- title: Banners
+  url: roes://wherever
+  description: Go big or go home
+ 
+- title: Coffee Migs
+  url: roes://wherever
+  description: Your mug on a mug! 
+  
