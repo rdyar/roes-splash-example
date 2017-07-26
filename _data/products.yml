@@ -34,20 +34,25 @@
   description: Die Cut Wallets with rounded corners
 
 # you can comment out items by putting a # in front of the line. This is handy for seasonal things.
-# - title: Double Sided Greeting Cards
-#   icon: https://source.unsplash.com/random/500x278?sig=8
-#   url: /services/double-sided-greeting-cards/
-#   description: "Double sided greeting cards on Card Stock."
+- title: Double Sided Greeting Cards
+   icon: https://source.unsplash.com/random/500x278?sig=8
+   url: /services/double-sided-greeting-cards/
+   description: "Double sided greeting cards on Card Stock."
 
-# - title: Traditional Photo Greeting Cards
-#   icon: https://source.unsplash.com/random/500x278?sig=9
-#   url: /services/traditional-photo-greeting-cards/
-#   description: "Single sided 4x8 and 5x7 photo greeting cards."
+- title: Traditional Photo Greeting Cards
+  icon: https://source.unsplash.com/random/500x278?sig=9
+  url: /services/traditional-photo-greeting-cards/
+  description: "Single sided 4x8 and 5x7 photo greeting cards."
 
-#- title: Photo Calendars
-# icon: https://source.unsplash.com/random/500x278?sig=10
-# url: /services/custom-photo-calendars/
-# description: "Photo Calendars make a great gift idea!"
+- title: Photo Calendars
+  icon: https://source.unsplash.com/random/500x278?sig=10
+  url: /services/custom-photo-calendars/
+  description: "Photo Calendars make a great gift idea!"
+  
+- title: Photo Calendars
+  icon: https://source.unsplash.com/random/500x278?sig=10
+  url: /services/custom-photo-calendars/
+  description: "Photo Calendars make a great gift idea!"  
 
 - title: 8x10 Headshots
   icon: https://source.unsplash.com/random/500x278?sig=11
