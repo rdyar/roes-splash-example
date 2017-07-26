@@ -31,7 +31,7 @@ One of the options in the config file is called `message`, it has title and cont
 
 ### Robots.txt is Disallowing Search Engines
 
-Since this is the splash page in ROES, you probably don't want Google to anyone else to show it in the search results, so the robots.txt file is disallowing robots on purpose.
+Since this is the splash page in ROES, you probably don't want Google or anyone else to show it in their search results, so the robots.txt file is disallowing robots on purpose.
 
 ### Use at Your Own Risk!
 
