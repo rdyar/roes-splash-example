@@ -35,9 +35,9 @@
 
 # you can comment out items by putting a # in front of the line. This is handy for seasonal things.
 - title: Double Sided Greeting Cards
-   icon: https://source.unsplash.com/random/500x278?sig=8
-   url: /services/double-sided-greeting-cards/
-   description: "Double sided greeting cards on Card Stock."
+  icon: https://source.unsplash.com/random/500x278?sig=8
+  url: /services/double-sided-greeting-cards/
+  description: "Double sided greeting cards on Card Stock."
 
 - title: Traditional Photo Greeting Cards
   icon: https://source.unsplash.com/random/500x278?sig=9
