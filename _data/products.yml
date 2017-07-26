@@ -1,97 +1,60 @@
 - title: Canvas Gallery Wraps
-  icon: canvas-gallery-wraps.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://canvas-cat/canvaswraps/canvas-info
-  featured: core
   description: Ready to hang wall art
   
 - title: Large Prints and Posters
-  icon: poster-prints.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://pro-luster-pro-pricing/posters-cat/posters-cat-info
   description: Big prints, 16x20 to 40x60
-  featured: core  
-
+  
 - title: Prints on Metal
-  icon: metal-prints.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://metal-cat/metal-prints/metal-info
   description: "Stunning! Your image on aluminum"
-  featured: core
-
+  
 - title: Press Prints on Cardstock
-  icon: press-prints-card-stock.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://press-cat/presscards/press-info
   description: "Flat, folded, trifold..."
-  featured: core
-
-- title: Scrapbook Printing
-  icon: scrapbook-prints.jpg
-  url: roes://scrap-cat/standard-subcat/scrap-info
-  featured: normal
-  description: "3x4 up to 12x12 prints and templates"
-
+  
 - title: Fuji Pearl Prints
-  icon: "pearl-prints-icon.jpg" 
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://pearl-cat/pearl-subcat/pearl-info
-  featured: core
   description: "High gloss metalic photo paper"
 
 - title: Package Printing
-  icon: units-and-package-printing.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://units-cat/units-subcat/units-info
-  featured: core
   description: "Printing for sports, schools, proms etc"    
 
 - title: Die Cut Wallets
-  icon: die-cut-wallets.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://pro-luster-full-service/pro-luster-fs/dcwfs
-  featured: normal
   description: Die Cut Wallets with rounded corners
 
-
+# you can comment out items by putting a # in front of the line. This is handy for seasonal things.
 # - title: Double Sided Greeting Cards
-#   icon: double-sided-greeting-cards.jpg
+#   icon: https://unsplash.it/500/278?seq=1
 #   url: /services/double-sided-greeting-cards/
 #   description: "Double sided greeting cards on Card Stock."
-#   featured: normal
 
 # - title: Traditional Photo Greeting Cards
-#   icon: traditional-photo-greeting-cards.jpg
+#   icon: https://unsplash.it/500/278?seq=1
 #   url: /services/traditional-photo-greeting-cards/
 #   description: "Single sided 4x8 and 5x7 photo greeting cards."
-#   featured: normal
 
 #- title: Photo Calendars
-# icon: photo-calendars.jpg
+# icon: https://unsplash.it/500/278?seq=1
 # url: /services/custom-photo-calendars/
 # description: "Photo Calendars make a great gift idea!"
-# featured: normal  
 
 - title: 8x10 Headshots
-  icon: 8x10-headshots.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url:  roes://pro-luster-pro-pricing/proluster-prints-text/prints-text-info
   description: "8x10 templates with your name"
-  featured: normal
-
-
-- title: Locket Prints
-  icon: locket-prints.jpg
-  url: roes://pro-luster-full-service/misc/locket
-  description: Our take on solving the locket print problem - 25 different sizes on a 5x7
-  featured: normal
 
 - title: Prints on Tile
-  icon: prints-on-tile.jpg
+  icon: https://unsplash.it/500/278?seq=1
   url: roes://metal-cat/tile-cat/tile-cat-info
   description: "Your photo on a ceramic tile. 4x4, 6x6 and 8x8 sizes available"
-  featured: normal
-
-- title: Quantity 8x10 Prints
-  icon: quantity-8x10-prints.jpg
-  url: roes://quantity-8x10/quantity-8x10-info
-  description: Need a large number of 8x10s for autographs?
-  featured: normal
-
-- title: Passport Photos
-  icon: passport-photos.jpg
-  url:  roes://pro-luster-full-service/misc/ppt
-  description: "DIY passport photo"
- 
