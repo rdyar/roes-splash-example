@@ -20,6 +20,8 @@ The config file and the products.yml file use YAML - which is sort of like XML b
   - the image icon is optional
   - the top two products are hard coded in the index.html file.
   - the width and height of the icons is fairly important, it works with the css to determine the size of the box. You can play with it though to an extent, or edit the sass files as needed.
+    - the normal icons should be 500x278
+    - the large ones at the top are 616x168
 
 The main css for the service boxes is found in the sass folder - service-flexbox.scss.
 
