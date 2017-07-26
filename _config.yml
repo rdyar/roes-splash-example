@@ -72,4 +72,4 @@ ef_contact:
           Phone: (619) 111-2525<br />
           <a href="https://rdyar.github.io/roes-splash-example/" target ="_blank">ROES Splash/</a>
 # shows link to strapless on GH
-show_footer_credit: false
+show_footer_credit: true
