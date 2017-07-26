@@ -29,6 +29,10 @@ The main css for the service boxes is found in the sass folder - service-flexbox
 
 One of the options in the config file is called `message`, it has title and content variables. This can be used to display a message at the top of the page for a special notice like holiday hours. To use it you uncomment the lines and edit them as needed. When you no longer need the message simple comment it out again.
 
+### Robots.txt is Disallowing Search Engines
+
+Since this is the splash page in ROES, you probably don't want Google to anyone else to show it in the search results, so the robots.txt file is disallowing robots on purpose.
+
 ### Use at Your Own Risk!
 
 This is a work in progress, it works for me so far but is new. I may continue to use GH Pages for hosting, or may switch to Amazon S3. GH Pages is just so easy to edit that I may keep using it.
