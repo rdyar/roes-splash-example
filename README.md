@@ -35,7 +35,7 @@ This is a work in progress, it works for me so far but is new. I may continue to
 
 I don't think that using GH Pages for this is against their terms of use, I believe you can host pretty much anything you want, but you may want to verify this yourself.
 
-The placeholder images are random images from unsplash, you should add your own images rather than use theirs (but there is no issues in terms of licensing, everything on unsplash can be used for any purpose).
+The placeholder images are random images from unsplash, you should add your own images rather than use theirs (but there are no issues in terms of licensing, everything on unsplash can be used for any purpose).
 
 # For Local Dev
 
