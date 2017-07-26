@@ -1,36 +1,43 @@
-# Strapless Theme
+# ROES Splash Screen Example
+Easy to edit GH Pages example of a ROES splash screen.
 
-Strapless is a simple CSS based theme with no JS, JQuery or Frameworks to rely on.
+Based on a theme I made called [Strapless](http://rdyar.github.io/strapless/)
 
-Demo site: http://rdyar.github.io/strapless/
-
-Use it as a starting point and add to it if there is something you need that isn't included.
-
-Strapless uses Flexbox in a few places, and should work on all modern browsers and devices, but will likely break on IE 6-7-8.
-
-Examples of Strapless in Use:  
-https://prolabprints.com  
-http://status.prolabprints.com  
-https://rdyar.github.io/  
-https://simpleordersystem.com/  
-
-## Config File has all Nav, Logo, Footer and Other Settings
+## Config File has Logo, Footer and Other Settings
 
 Carefully go thru the config.yml file as it has all the settings used for the nav, logo, footer and other settings.
 
-# Getting Started
+The config file and the products.yml file use YAML - which is sort of like XML but much easier to read and write. Here is a great YAML cheat sheet for Jekyll usage: https://github.com/planetjekyll/quickrefs/blob/master/YAML.md
 
-This section assumes you are using Strapless CSS with Jekyll. If not, you can just take the SASS and CSS files and be on your way.
+## Getting Started
 
-You will need to have NODE installed, and NPM.
-
-- Download/clone the repo
-- CD into the directory and run 'npm install' to install the required node_modules. Mostly this is for Gulp and BrowseSync.
-- You should use `octopress-autoprefixer`, it is listed in the Gemfile and I think will be installed if you use Bundler. If you don't use Bundler you should do `gem install octopress-autoprefixer` to install it. Most of the sass is already autoprefixed, so it is probably not required, but if you need to add your own css it will be a good idea to have it.
+- Download/clone/fork the repo
 - Edit the config.yml file
 	- there are a lot of things to edit in the config file, but it is all in one place and fairly simple, with notes on what each item does.
-- Delete the `sample-pages` folder, this has all the content for the strapless site, you won't need it.
-- Delete the content of the index.html file and add your own.
+- Edit the products.yml file in the data folder
+  - each product has a few variables like title, description, roes url, and icon (url to graphic).
+  - currently each product with an icon is using a random image from unsplash just to have something there (I'm not going to give you my images so you need your own). The unsplash images take a second to load, using real images loads more or less instantly.
+  - the image icon is optional
+  - the top two products are hard coded in the index.html file.
+  - the width and height of the icons is fairly important, it works with the css to determine the size of the box. You can play with it though to an extent, or edit the sass files as needed.
+
+The main css for the service boxes is found in the sass folder - service-flexbox.scss.
+
+### Custom Message in Config File for Special Notices
+
+One of the options in the config file is called `message`, it has a title and content variables. This can be used to display a message at the top of the page for a special notice like holiday hours. To use it you uncomment the lines and edit them as needed. When you no longer need the message simple comment it out again.
+
+### Use at Your Own Risk!
+
+This is a work in progress, it works for me so far but is new. I may continue to use GH Pages for hosting, or may switch to Amazon S3. GH Pages is just so easy to edit that I may keep using it.
+
+I don't think that using GH Pages for this is against their terms of use, I believe you can host pretty much anything you want, but you may want to verify this yourself.
+
+The placeholder images are random images from unsplash, you should add your own images rather than use theirs (but there is no issues in terms of licensing, everything on unsplash can be used for any purpose).
+
+# For Local Dev
+
+If you are doing development locally instead of just using the GitHub website, there are a few files to help out. I prefer to use the Gulp file which allows live reload. If you are just using the GH website these files are ignored.
 
 ### Gulp File Instead of Jekyll Serve
 
