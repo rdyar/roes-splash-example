@@ -1,12 +1,11 @@
 # name is used for the logo image alt text, and in the footer copyright
-name: ProLabPrints.com
-title: ProLabPrints.com ROES
-description: ProLabPrints.com ROES Ordering System
+name: Test ROES Splash
+title: Test ROES Splash
+description: Test ROES Splash
 # baseurl is used if you are using github pages for a project page - this is the project/repo name, always starts with a /
-baseurl: /plp-splash17 
+baseurl: /roes-splash-example
 permalink: pretty
 exclude: ["Gemfile.lock","Gemfile","package.json","rakefile.rb","README.md","s3_website.yml","node_modules","gulpfile.js"]
-highlighter: rouge
 markdown: kramdown
 kramdown:
   input: GFM
@@ -14,27 +13,20 @@ kramdown:
   syntax_highlighter: rouge
 
 ####show message in an alert on home page. Comment it out to hide it.
-#message:
-#  title: Closed On the 4th of July, Half day on Monday the 3rd
-#  content: We will be closing earlier on Monday July 3rd, at 1pm. We will be closed all day on Tuesday July 4th.<br>Back to normal on Wednesday July 5th.
-#           <br>Happy 4th of July!
+message:
+  title: Closed On the 4th of July, Half day on Monday the 3rd
+  content: We will be closing earlier on Monday July 3rd, at 1pm. We will be closed all day on Tuesday July 4th.<br>Back to normal on Wednesday July 5th.
+           <br>Happy 4th of July!
 
 # Google analytics ID - uncomment and add your GA ID
 # ga: UA-xxxx-yy
 
-# cannonical_domain is used for building the full url to your site including the domain and base_url if any.
-# it is used in the sitemap.xml, robots.txt and in the head of every page as a link rel="canonical" tag.
-# do not include the baser_url if any as it is added in when building the link.
-# DO NOT leave it empty or comment it out! or your sitemap and robots files will be incorrect. 
-# what is the url google will find the main site at - not including base_url if any? 
-canonical_domain: http://rdyar.github.io
-
 # image for logo, if you don't have one comment it out and use the logo_text below.
-logo_url: /assets/images/pro-lab-prints-logo14.png
+# logo_url: /assets/images/pro-lab-prints-logo14.png
 
 # if no logo, comment out above and enter the name and it will show instead
 # if the logo_url above is used this will not display
-logo_text: ProLabPrints.com
+logo_text: ROES Splash
 
 # Main nav is for screens wider than 600px
 # Home link is hard coded by default
@@ -58,9 +50,9 @@ expanded_footer: true
 # the content part is wrapped in a p tag. It is ok to have html in it, just be aware of the already included p tag
 # important! - you cannot use site.base_url or any other site variables in the content! notice I have hard coded my base_url
 ef_about:
-  heading: ProLabPrints.com ROES
-  content: >
-        Cleverly hidden in a tiny strip mall in San Diego, we are a small team of friendly, highly trained professionals doing our best to make your images come to life.
+  heading: ROES Splash Screen
+  content: An easy to use and edit ROES splash screen.
+        
 # Links section - if they are relative then use url, if they are absolute (different domain) use absolute_url
 ef_links:
   heading: Links
@@ -69,17 +61,15 @@ ef_links:
      external_url: https://prolabprints.com/videos/roes-intro-video/
    - title: ROES Drag and Drop
      external_url: https://prolabprints.com/videos/ROES-drag-and-drop/
-   - title: California Resale Certificate
-     external_url: http://media.ephotopros.com/site/resale-certificate-fromex.pdf
-
+   
 ef_contact:
   heading: Contact Info
   content: >
-          ProLabPrints.com / Fromex Photo Lab, Inc.<br />
-          6370 El Cajon Blvd <br />
+          ROES Spash<br />
+          123 Main Street <br />
           San Diego, CA 92115 <br />
           Hours: Monday - Friday 9am-6pm<br />
-          Phone: (619) 287-5346<br />
-          <a href="https://prolabprints.com/" target ="_blank">https://prolabprints.com</a>
+          Phone: (619) 111-2525<br />
+          <a href="https://rdyar.github.io/roes-splash-example/" target ="_blank">ROES Splash/</a>
 # shows link to strapless on GH
-show_footer_credit: true
+show_footer_credit: false
