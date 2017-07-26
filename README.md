@@ -27,7 +27,7 @@ The main css for the service boxes is found in the sass folder - service-flexbox
 
 ### Custom Message in Config File for Special Notices
 
-One of the options in the config file is called `message`, it has a title and content variables. This can be used to display a message at the top of the page for a special notice like holiday hours. To use it you uncomment the lines and edit them as needed. When you no longer need the message simple comment it out again.
+One of the options in the config file is called `message`, it has title and content variables. This can be used to display a message at the top of the page for a special notice like holiday hours. To use it you uncomment the lines and edit them as needed. When you no longer need the message simple comment it out again.
 
 ### Use at Your Own Risk!
 
